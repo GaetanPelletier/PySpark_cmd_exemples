@@ -5,9 +5,12 @@ Les différents bouts de code permettent de créer une session PySpark (SQL), pu
 
 Ce NoteBook contient les informations fournies dans la vidéo de Monsieur Krish Naik et relayée par freeCodeCamp.org. Elle est disponible [ici](https://www.youtube.com/watch?v=_C8kWso4ne4&t=4632s&ab_channel=freeCodeCamp.org)
 
-# Composition du NotBook
+# PySpark_ututo_freeCodeCamp.ipynb
 - Introduction and Installation
 - DataFrame
 - Handling Missing Values
 - GroupBy and Aggregate Functions
 - MLlib, Installation and Implementation (linear regression)
+
+# Linear_Regression_with_PySpark.ipynb
+Fichier contenant les lignes de codes exécutées sur un cluster de Databrikcs avec le fichier "tips.csv"
