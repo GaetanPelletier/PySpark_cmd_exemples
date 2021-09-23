@@ -15,6 +15,6 @@ Ce NoteBook contient les informations fournies dans la vidéo de Monsieur Krish 
 # Linear_Regression_with_PySpark.ipynb
 Fichier contenant les lignes de codes exécutées sur un cluster de Databrikcs avec le fichier "tips.csv"
 
-# NB :
+# NB
 Tout le mérite de ces lignes de code reviennent à Monsieur Krish Naik.
 Le but de ce répertoire est personnel : conserver sur un Github (et donc accessible depuis n'importe quel ordinateur) des informations sur pySpark, afin de les retrouver rapidement si j'en ai besoin.
